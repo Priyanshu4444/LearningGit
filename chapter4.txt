@@ -1,0 +1,10 @@
+commands and there use
+code <filename> (to open the file in gitbash or cmd)
+git init (to initiate git)
+git status (to check if the status of git i.e what are the files that has been added to staging area or not, or is there any changes)
+git add <filename> (to add the file to staging area)
+git add . (to add all the file in the repositary to the staging area)
+git commit -m "msg" (this will commit all the files from staging area to git repositary and the msg will be saved)
+git log (this will show when was the last commit happend and the msg with it)
+git diff <filename> (when we make some changes after commit this command will show the difference)
+git checkout <filename> (this is revert the file to its original state from staging area and the changes will be removed)
